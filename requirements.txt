@@ -1,0 +1,7 @@
+google-adk
+python-dotenv
+python-docx  # For Word docs (.docx) - limited track change support
+PyPDF2       # For reading PDFs
+requests     # Example for calling external APIs
+
+# Add any other libraries needed for file parsing, API calls, etc.
